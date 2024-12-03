@@ -9,12 +9,6 @@
 - Game over screen with final score.
 - Options to restart or quit the game.
 
-## Screenshots
-
-![Math Adventure Screenshot 1](https://example.com/screenshot1.png)
-![Math Adventure Screenshot 2](https://example.com/screenshot2.png)
-
-*(You can replace the links with the actual image URLs after uploading them to GitHub or another image hosting service)*
 
 ## Getting Started
 
